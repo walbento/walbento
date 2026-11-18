@@ -2,10 +2,6 @@
 
 ### A Senior Software Engineer | Product Manager from Angola
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walbento&label=Profile views&color=0e75b6&style=flat" alt="walbento" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walbento" alt="walbento" /></a> </p>
-
 - 🔭 I'm currently working on **API Payment Gateway**
 
 - 🌱 I'm currently learning **IA Development**
